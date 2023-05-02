@@ -1,0 +1,112 @@
+
+.WhoeWeArw .contentText {
+    background-image: url(../../assets/About/bg-intro.png);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+
+    padding-top: 40px;
+}
+
+.WhoeWeArw .contentImg img {
+
+    padding-top: 40px;
+}
+
+.WhoeWeArw .contentText h1 {
+    font-weight: 700;
+}
+
+.WhoeWeArw .contentText h1 span {
+    color: #5454D4;
+}
+
+.WhoeWeArw .contentText h1 {
+    padding: 16px 0;
+}
+
+.WhoeWeArw .contentText p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 38px;
+}
+
+/* media query for container */
+@media only screen and (max-width: 600px) {
+    .WhoeWeArw .contentText h1 {
+        padding: 2px 0;
+
+    }
+
+    .WhoeWeArw .contentText p {
+        font-size: 12px;
+        line-height: 23px;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
+
+/* .WhoeWeArw .contentImg img{
+    width: 75%;
+} */
+
+/* /////////////////////////////////////////////////////////////// */
+
+
+/* Why GoldenBox Is The Best Choice? */
+
+
+/* /////////////////////////////////////////////////////////////// */
+
+/* our Services */
+.services p {
+    /* width: 50%; */
+    font-size: 18px;
+}
+
+.title span {
+    color: var(--primary-color);
+}
+
+.title h1 {
+    width: 70%;
+    margin: auto;
+    color: #101828;
+    /* font-size: 2.5rem; */
+}
+
+.serchIcon {
+    background-color: rgba(84, 84, 212, 0.1);
+    color: #5454D4;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.capIcon {
+    background-color: rgba(240, 64, 55 , 0.1);
+    color: #F04037;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.medalIcon {
+    background-color: rgba(254, 220, 90 , 0.1);
+    color: #FEDC5A;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}

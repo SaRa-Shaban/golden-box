@@ -1,0 +1,53 @@
+
+.Icon{
+    height: 28px;
+    margin-top:4%;
+    margin-bottom:6%;
+    }
+    
+    .Text{
+    
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    /* line-height: 180%; */
+    padding: 20px 0;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;  
+    }
+    .Prg{
+    
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 40px;
+        letter-spacing: 0.01em;
+        color: rgba(255, 255, 255, 0.7);
+    }
+    .Read{
+        width: 149px;
+        height: 50px;
+       /*left: 781px;*/
+       /*top: 649px;*/
+       background: #5454D4;
+       font-family: 'Poppins';
+       font-style: normal;
+       font-weight: 400;
+       font-size: 16px;
+       /* line-height: 177.9%; */
+       text-align: center;
+       letter-spacing: 0.01em;
+       color: #FFFFFF;
+       }
+    
+    
+    .Polygon{
+        width: 48.63px;
+        height: 48.63px;
+    }
+    
+    
+    
+    
